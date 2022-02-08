@@ -1,0 +1,1 @@
+# 1_4_3_Program-for-finding-an-extremal-element-or-ordinal-number-for-a-given-one-dimensional-array
